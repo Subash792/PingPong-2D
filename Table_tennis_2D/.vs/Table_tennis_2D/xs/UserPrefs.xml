@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{275BEA86-8AC4-9EB9-EE4A-3B8841C4091D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Racketmovement.cs">
+    <Files>
+      <File FileName="Assets/GameOver.cs" Line="8" Column="5" />
+      <File FileName="Assets/Scripts/Racketmovement.cs" Line="12" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="30a02b59-7564-4799-bc73-b2ebd1dd112f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
